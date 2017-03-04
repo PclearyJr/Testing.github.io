@@ -1,0 +1,6 @@
+D:\OhioCastStone\OhioCastStone\bin\OhioCastStone.dll.config
+D:\OhioCastStone\OhioCastStone\bin\OhioCastStone.dll
+D:\OhioCastStone\OhioCastStone\bin\OhioCastStone.pdb
+D:\OhioCastStone\OhioCastStone\obj\Debug\OhioCastStone.csprojResolveAssemblyReference.cache
+D:\OhioCastStone\OhioCastStone\obj\Debug\OhioCastStone.dll
+D:\OhioCastStone\OhioCastStone\obj\Debug\OhioCastStone.pdb
